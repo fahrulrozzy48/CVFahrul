@@ -45,13 +45,16 @@ Header Area Start
 }
 
 .mobile-app-banner-content p{
-    font-size: 25px;
+    font-size: 20px;
     color: white;
-    line-height: 40px;
+    line-height: 25px;
     margin: 30px 0px;
     text-align: justify;
 }
-
+.mobile-app-banner-content a{
+  color: white;
+  
+}
 
 
 .btn1{
@@ -104,11 +107,15 @@ Header Area Start
   }
   .mobile-app-banner-content{
       color: white;
-      margin-top: 100px;
+      margin-top: 60px;
       margin-left: auto;
       margin-right: 0px;
   }
 
+  .mobile-app-banner-content a{
+    color: white;
+    
+}
 
   .mobile-app-banner-content h1{
       font-size: 65px;
@@ -180,7 +187,10 @@ Header Area Start
       display: block;
       text-align: center;
   }
-
+  .mobile-app-banner-content a{
+    color: white;
+    
+}
 
   .mobile-app-banner-content h1{
       font-size: 45px;
@@ -237,7 +247,7 @@ Header Area Start
       margin-bottom: 0;
   }
   .photo img{
-    margin-top: 110px;
+    margin-top: 50px;
     margin-bottom: auto;
     height: 180px;
     width: 180px;
@@ -261,6 +271,10 @@ Header Area Start
       color: white;
       
   }
+  .mobile-app-banner-content a{
+    color: white;
+    
+}
 
   .mobile-app-banner-content p{
       font-size: 18px;
@@ -336,7 +350,7 @@ Header Area Start
       margin-bottom: 0;
   }
   .photo img{
-    margin-top: 130px;
+    margin-top: 100px;
     margin-bottom: auto;
     height: 150px;
     width: 150px;
@@ -368,7 +382,10 @@ Header Area Start
       margin: 10px 30px;
       text-align: center;
   }
-
+  .mobile-app-banner-content a{
+    color: white;
+    
+}
 
   .btn1{
       display: inline-flex;
@@ -428,7 +445,10 @@ Header Area Start
         display: block;
         text-align: center;
     }
-
+    .mobile-app-banner-content a{
+      color: white;
+      
+  }
 
     .mobile-app-banner-content h1{
         font-size: 25px;
@@ -527,7 +547,7 @@ Header Area Start
     padding: 27px 40px;
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
     width: 100%;
-    height: 300px;
+    height: 350px;
     
 }
 
@@ -686,7 +706,7 @@ Header Area Start
       padding: 27px 40px;
       box-shadow: 0 0 10px rgba(0,0,0,0.1);
       width: 100%;
-      height: 270px;
+      height: 300px;
       margin-bottom: 20px;
 
   }
@@ -755,7 +775,7 @@ Header Area Start
         padding: 27px 40px;
         box-shadow: 0 0 10px rgba(0,0,0,0.1);
         width: 100%;
-        height: 270px;
+        height: 300px;
         margin-bottom: 20px;
 
     }
