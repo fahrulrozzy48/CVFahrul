@@ -25,7 +25,7 @@ Header Area Start
 }
 
 .photo img{
-  margin: 100px 50px 100px 100px;
+  margin: 100px 50px 50px 100px;
   height: 300px;
   width: 300px;
   display: block;
@@ -45,7 +45,7 @@ Header Area Start
 }
 
 .mobile-app-banner-content p{
-    font-size: 28px;
+    font-size: 25px;
     color: white;
     line-height: 40px;
     margin: 30px 0px;
@@ -104,10 +104,9 @@ Header Area Start
   }
   .mobile-app-banner-content{
       color: white;
-      margin-top: 150px;
-      margin-bottom: 5px;
+      margin-top: 100px;
       margin-left: auto;
-      margin-right: 60px;
+      margin-right: 0px;
   }
 
 
@@ -118,10 +117,9 @@ Header Area Start
   }
 
   .mobile-app-banner-content p{
-      font-size: 27px;
+      font-size: 24px;
       color: white;
       line-height: 35px;
-      margin: 10px 0px;
       text-align: justify;
   }
 
@@ -239,7 +237,7 @@ Header Area Start
       margin-bottom: 0;
   }
   .photo img{
-    margin-top: 130px;
+    margin-top: 110px;
     margin-bottom: auto;
     height: 180px;
     width: 180px;
